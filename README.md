@@ -6,4 +6,3 @@ A deep learning based approach which uses *haar face detector* for preprocessing
 
 # Contributors
 - Sarthak Koche
-- Manas Ladha 😜
