@@ -4,5 +4,3 @@ A deep learning based approach which uses *haar face detector* for preprocessing
 # Results
 <img src="https://github.com/sarthakkhoche/Face-Mask-Detection/blob/master/result.png" />
 
-# Contributors
-- Sarthak Koche
